@@ -1,0 +1,4 @@
+baseurl:    /blog
+permalink:   none
+markdown: maruku
+future: true
