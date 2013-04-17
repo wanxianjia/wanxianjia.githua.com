@@ -3,3 +3,5 @@ server: true
 permalink: none
 markdown: maruku
 future: true
+url: http://wanxianjia.github.com
+paginate: 20
