@@ -1,4 +1,5 @@
-baseurl:    /blog
-permalink:   none
+auto: true
+server: true
+permalink: none
 markdown: maruku
 future: true
